@@ -1,0 +1,23 @@
+.filters {
+}
+
+.filtersInput {
+}
+
+.filtersDone {
+  padding: 15px;
+  background: #fff;
+  color: red;
+  &Active {
+    background: #1f54c5;
+  }
+}
+
+.filtersAll {
+  padding: 15px;
+  background: #fff;
+  color: red;
+  &Active {
+    background: #1db17f;
+  }
+}
